@@ -1,3 +1,5 @@
+
+
 # Vuetify (Default)
 
 This is the official scaffolding tool for Vuetify, designed to give you a head start in building your new Vuetify application. It sets up a base template with all the necessary configurations and standard directory structure, enabling you to begin development without the hassle of setting up the project from scratch.
@@ -72,6 +74,9 @@ This project is built with [Vuetify](https://vuetifyjs.com/en/), a UI Library wi
 - [Becoming a sponsor on Patreon](https://www.patreon.com/vuetify)
 - [Becoming a subscriber on Tidelift](https://tidelift.com/subscription/npm/vuetify)
 - [Making a one-time donation with Paypal](https://paypal.me/vuetify)
+
+This is Work Project from Quantum. i do all this from scratch. i created all of this.
+
 
 ## 📑 License
 [MIT](http://opensource.org/licenses/MIT)
